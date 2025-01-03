@@ -1,6 +1,6 @@
 # Craig Spannring
 I initially created this disorganized set of files to help me share my .emacs configuration between work 
-and home.  If you find anything useful, great, but most of this is what I'd describe as hobby style code. 
+and home.  
 
 
 <!---
